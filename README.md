@@ -1,5 +1,5 @@
 # Excel-Analysis
-Performing analysis on a large dataset including conditional formatting, using pivot tables to create a variety of charts, and reating summary statistics tables.
+Performing analysis on a large dataset including conditional formatting, using pivot tables to create a variety of charts, and creating summary statistics tables.
 
 ## Background
 
